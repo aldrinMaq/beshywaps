@@ -6,7 +6,7 @@
     <TextArea
         class="w-full text-1 shadow-5"
         rows="5" cols="100"
-        placeholder="Enter message..."
+        placeholder="Enter your text here..."
         v-model="textEdit"
     />
       </div>
